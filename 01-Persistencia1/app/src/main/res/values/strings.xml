@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Persistência I</string>
+    <string name="digite_o_seu_usuario">Digite o seu usuário</string>
+    <string name="digite_sua_senha">Digite a sua senha</string>
+    <string name="manter_conectado">Manter conectado</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="login_invalido">Login inválido</string>
+    <string name="salvar_no_arquivo">Salvar no arquivo</string>
+    <string name="ler_arquivo">Ler arquivo</string>
+    <string name="nao_foi_possivel_salvar">Não foi possível salvar o arquivo</string>
+    <string name="nao_foi_possivel_ler_arquivo">Não foi possível ler o arquivo</string>
+</resources>
