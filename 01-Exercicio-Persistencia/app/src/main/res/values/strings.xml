@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen Persistence</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="configuracao">Configurações</string>
+</resources>
